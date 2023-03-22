@@ -1,3 +1,3 @@
-[submodule "rhythmic_features/rp_extract"]
-	path = rhythmic_features/rp_extract
+[submodule "src/rp_extract"]
+	path = src/rp_extract
 	url = https://github.com/asantos-6/rp_extract
