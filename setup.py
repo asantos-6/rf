@@ -1,6 +1,6 @@
 from setuptools import find_packages, setup
 
 setup(
-    name='rhythmic_features',
+    name='src',
     packages=find_packages(),
 )
